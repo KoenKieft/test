@@ -1,0 +1,9 @@
+
+uurloon = int(input('Wat verdien je per uur?'))
+aantaluur = int(input('Hoeveel uur heb je gewerkt?'))
+Salaris = (uurloon) * (aantaluur)
+Salaris2= str(aantaluur) + str(' uur werken levert ') + str(Salaris) + str(' Euro op')
+print (Salaris2)
+
+
+
